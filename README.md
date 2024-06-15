@@ -6,8 +6,8 @@
 
 This dashboard provides insights into the performance of salespersons, highlighting their contribution to the total revenue. Below is a snapshot of the dashboard:
 
-![Sales Person Ranking](![Uploading 333.PNG…]()
-)
+![333](https://github.com/fesallomer/hyper-market-sales-analysis/assets/167563648/5bed5065-de03-442f-b2fe-4b3ec338d39b)
+
 
 ## Insights
 
