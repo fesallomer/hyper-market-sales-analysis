@@ -6,7 +6,8 @@
 
 This dashboard provides insights into the sales performance, highlighting key metrics and detailed breakdowns by various categories. Below is a snapshot of the dashboard:
 
-![Sales Dashboard](https://your-repository-url/path-to-your-image.png)
+![Capture](https://github.com/fesallomer/hyper-market-sales-analysis/assets/167563648/1b8d87bf-dda5-4847-9c16-5c5f9dbdd3ff)
+
 
 ## Insights
 
